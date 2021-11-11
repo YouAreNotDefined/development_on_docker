@@ -1,6 +1,7 @@
 ## 手順
 
 公式の方法だと上手くいかなかったので
+vsceも上手くいかない。原因不明
 
 1. docker build -t vscode-generator-code .
 1. docker run -itd -v $(pwd):/usr/src/app vscode-generator-code
