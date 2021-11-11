@@ -13,4 +13,3 @@ COPY . .
 
 RUN chown -R node:node /usr/src/app
 USER node
-# ENTRYPOINT [ "yo", "code" ]
