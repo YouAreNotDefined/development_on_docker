@@ -2,6 +2,8 @@
 
 公式の方法だと上手くいかなかったので
 
+と思ったら、これも上手くいかないー。chownが効いてないなぜ
+
 vsceも上手くいかない。原因不明
 
 1. docker build -t vscode-generator-code .
